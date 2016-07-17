@@ -1,2 +1,2 @@
 # neural_network_learn
-Some example of learning neural network.
+Examples of learning neural network.
